@@ -1,0 +1,1 @@
+export const PASSWORD_ERROR = 'User or password are incorrect!'

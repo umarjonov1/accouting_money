@@ -1,0 +1,1 @@
+export const USER_EXESTS_ERROR = 'This email already exist!'
